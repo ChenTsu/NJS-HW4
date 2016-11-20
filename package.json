@@ -1,0 +1,24 @@
+{
+  "name": "njs-hw4",
+  "version": "1.0.0",
+  "description": "Geekbrains Node.JS homework 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenTsu/NJS-HW4.git"
+  },
+  "author": "ChenTsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenTsu/NJS-HW4/issues"
+  },
+  "homepage": "https://github.com/ChenTsu/NJS-HW4#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0"
+  }
+}
